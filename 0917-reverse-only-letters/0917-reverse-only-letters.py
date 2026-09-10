@@ -14,11 +14,9 @@ class Solution:
                 right -= 1
             # if left is not alpha
             elif not s[left].isalpha():
-                ans[left] = s[left]
                 left += 1
             # if right is not alpha
             elif not s[right].isalpha():
-                ans[right] = s[right]
                 right -= 1
 
 
