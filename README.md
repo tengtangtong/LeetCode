@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tengtangtong/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/tengtangtong/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/tengtangtong/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/tengtangtong/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/tengtangtong/LeetCode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tengtangtong/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tengtangtong/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/tengtangtong/LeetCode/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/tengtangtong/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/tengtangtong/LeetCode/tree/master/2540-minimum-common-value) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/tengtangtong/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
