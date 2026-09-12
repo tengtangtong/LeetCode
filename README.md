@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tengtangtong/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tengtangtong/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/tengtangtong/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/tengtangtong/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2090-k-radius-subarray-averages](https://github.com/tengtangtong/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2540-minimum-common-value](https://github.com/tengtangtong/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tengtangtong/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tengtangtong/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/tengtangtong/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/tengtangtong/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
