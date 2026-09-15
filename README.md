@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/tengtangtong/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/tengtangtong/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tengtangtong/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tengtangtong/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/tengtangtong/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tengtangtong/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/tengtangtong/LeetCode/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
