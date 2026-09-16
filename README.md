@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tengtangtong/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/tengtangtong/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tengtangtong/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tengtangtong/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/tengtangtong/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tengtangtong/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/tengtangtong/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tengtangtong/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/tengtangtong/LeetCode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/tengtangtong/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/tengtangtong/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [2540-minimum-common-value](https://github.com/tengtangtong/LeetCode/tree/master/2540-minimum-common-value) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tengtangtong/LeetCode/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tengtangtong/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/tengtangtong/LeetCode/tree/master/2540-minimum-common-value) |
 ## Stack
@@ -82,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tengtangtong/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tengtangtong/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tengtangtong/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
